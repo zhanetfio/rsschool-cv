@@ -1,12 +1,11 @@
 # Zhanna Bokhan
--------
+
 ## Contacts:
 * __Phone:__ +375336267719
 * __E-mail:__ zhanet_f@mail.ru
 * __Discord:__ Zhanet
 * __GitHub:__ Zhanetfio
 
--------
 ## About myself 
 
 
@@ -14,14 +13,13 @@
  I worked at Minsk Gear Works as a forging production engineer before.
 
 
-------
 ## Skills
 
 * HTML
 * CSS
 * JS
 * Git and GitHub
---------
+
 
 
 ## Code Example
@@ -37,9 +35,9 @@ function rentalCarCost(d) {
     };
 }
 ```
---------
+
 ## Experience
---------
+
 ## Education
 #### __University:__  
 
@@ -54,7 +52,7 @@ Polotsk State University, Engineering Technlogy
 3. Codewars 
 4. JavaScript https://learn.javascript.ru/ 
 
---------
+
 ## Languages
 
 * __Russian:__ native
