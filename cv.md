@@ -2,9 +2,9 @@
 
 ## Contacts:
 * __Phone:__ +375336267719
-* __E-mail:__ zhanet_f@mail.ru
-* __Discord:__ Zhanet
-* __GitHub:__ Zhanetfio
+* __E-mail:__ [zhanet_f@mail.ru](zhanet_f@mail.ru)
+* __Discord:__ [Zhanet](https://discord.com/channels/@me)
+* __GitHub:__ [Zhanetfio](https://github.com/zhanetfio)
 
 ## About myself 
 
@@ -45,12 +45,12 @@ Polotsk State University, Engineering Technlogy
 
 #### __Courses:__
 1. FreeCodeCamp 
-    * Responsive Web Design https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
-    * JavaScript Algorithms and Data Structures (in process) https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-2. W3Schools https://www.w3schools.com/
+    * [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5)
+    * [JavaScript Algorithms and Data Structures (in process)](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+2. [W3Schools](https://www.w3schools.com/)
     * HTML and CSS
-3. Codewars 
-4. JavaScript https://learn.javascript.ru/ 
+3. [Codewars](https://www.codewars.com/users/zhanetfio)
+4. [JavaScript](https://learn.javascript.ru/) 
 
 
 ## Languages
