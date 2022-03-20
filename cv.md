@@ -10,7 +10,8 @@
 ## About myself 
 
 
- I like to design and create something.I like to get results of my work. I dont like monotonous work. 
+ I like to design and create something. I like to get results of my work. I don`t like monotonous work. 
+ I worked at Minsk Gear Works as a forging production engineer before.
 
 
 ------
