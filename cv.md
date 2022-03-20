@@ -1,20 +1,20 @@
-#Zhanna Bokhan
+# Zhanna Bokhan
 -------
-####Contacts:
+## Contacts:
 * __Phone:__ +375336267719
 * __E-mail:__ zhanet_f@mail.ru
 * __Discord:__ Zhanet
 * __GitHub:__ Zhanetfio
 
 -------
-###About myself 
+## About myself 
 
 
  I like to design and create something.I like to get results of my work. I dont like monotonous work. 
 
 
 ------
-####Skills
+## Skills
 
 * HTML
 * CSS
@@ -23,7 +23,7 @@
 --------
 
 
-#### Code Example
+## Code Example
 ``` 
 
 function rentalCarCost(d) {
@@ -37,14 +37,14 @@ function rentalCarCost(d) {
 }
 ```
 --------
-####Experience
+## Experience
 --------
-####Education
-#####__University:__  
+## Education
+#### __University:__  
 
 Polotsk State University, Engineering Technlogy
 
-#####__Courses:__
+#### __Courses:__
 1. FreeCodeCamp 
     * Responsive Web Design https://www.freecodecamp.org/learn/responsive-web-design/#basic-html-and-html5
     * JavaScript Algorithms and Data Structures (in process) https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
@@ -54,7 +54,7 @@ Polotsk State University, Engineering Technlogy
 4. JavaScript https://learn.javascript.ru/ 
 
 --------
-####Languages
+## Languages
 
 * __Russian:__ native
 * __English:__ A2 (in the learning process)
